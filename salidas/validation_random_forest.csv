@@ -1,0 +1,4 @@
+algorithm,config_name,f1_macro_val,accuracy_val
+Random Forest,rf_200_d20_l2,0.6943978482461478,0.696875
+Random Forest,rf_200_none_l5,0.6839907601839084,0.6864583333333333
+Random Forest,rf_120_d16_l5,0.6763136873245243,0.6791666666666667

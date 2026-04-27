@@ -1,0 +1,5 @@
+algorithm,config_name,f1_macro_val,accuracy_val
+Naive Bayes,gnb_vs_1e-06,0.547209069417212,0.584375
+Naive Bayes,gnb_vs_1e-07,0.5322607191879042,0.578125
+Naive Bayes,gnb_vs_1e-08,0.508618046166785,0.5677083333333334
+Naive Bayes,gnb_vs_1e-09,0.4769376778538234,0.553125

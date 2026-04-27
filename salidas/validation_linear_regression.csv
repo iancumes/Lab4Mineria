@@ -1,0 +1,2 @@
+algorithm,config_name,rmse_val,mae_val,r2_val
+Linear Regression,linear_regression,3145.190709926663,1210.4621044322844,0.38021795531168945
